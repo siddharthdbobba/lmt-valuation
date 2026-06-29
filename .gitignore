@@ -1,0 +1,7 @@
+# Internal build scaffolding, not part of the published project
+codex_run.log
+BUILD-BRIEF.md
+__pycache__/
+*.pyc
+.DS_Store
+~$*.xlsx
